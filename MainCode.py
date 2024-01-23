@@ -18,8 +18,6 @@ print(name)
 roll = input("Give your roll number:")
 roll = int(roll)
 print(roll)
-<<<<<<< HEAD
-print("This is Ravi wrriting on 01.04")
-=======
 print("Priyesh, Priyesh")
->>>>>>> c111f7c6d5c6844b76769b442b43ff5fddef2405
+
+print("This is Ravi wrriting on 01.04")
