@@ -14,3 +14,7 @@ print("Ravi")
 print("Checking for github desktop.. check and let me know")
 name = input("Write your name: ")
 print(name)
+
+roll = input("Give your roll number:")
+roll = int(roll)
+print(roll)
